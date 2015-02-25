@@ -1,0 +1,5 @@
+Let x = 2;
+Let y = 4;
+Let z = 0;
+
+z = x*y;
